@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+div.pieChartContanier{
+  width: 600px; 
+  height: 750px;
+  float: left;
+  position: relative;
+}
